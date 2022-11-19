@@ -1,0 +1,13 @@
+div {
+    display: block;
+    justify-content: center;
+}
+
+button {
+    background: black;
+    color: #fff;
+    width: 11em;
+    height: 2em;
+    border-radius: 1.5em;
+    cursor: pointer;
+}
